@@ -19,7 +19,7 @@
                 <ul>
                     <li><a href="#">Acceuil</a></li>
                     <li><a href="#">Menu</a></li>
-                    <li><a href="#">Info</a></li>
+                    <li><a href="#">Commande</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
@@ -27,13 +27,19 @@
         <div class="bod">
             <div class="pub"><p> BENEFICIEZ D'UNE REDUCTION DE 10% SUR VOTRE PREMIÈRE COMMANDE !!!</p></div>
             <div class="bod_1">
-                <p> CUISINE 100% AFRICAINE</p>
+                <p> CUISINE A L'IVOIRIENNE</p>
             </div>
             <div class="table1">
-                <div class="t1"><img src="Images/p6.jpeg" alt="" class="img"></div>
-                <div class="t1"><img src="Images/f.jpeg" alt="" class="img"></div>
-                <div class="t1"><img src="Images/g1.jpeg" alt="" class="img"></div>
-                <div class="t1"><img src="Images/a77.jpeg" alt="" class="img"></div>
+                <div class="t1"><img src="Images/p6.jpeg" title="Garba + poisson thon" class="img">
+                <div class="explorer"> <p> Decouvrir Plus</p></div>
+                </div>
+                <div class="t1"><img src="Images/f.jpeg" title="Foutou banane" class="img">
+                <div class="explorer"> <p> Decouvrir Plus</p></div>
+                </div>
+                <div class="t1"><img src="Images/g1.jpeg" title="Placali" class="img"><div class="explorer"> <p> Decouvrir Plus</p></div>
+                </div>
+                <div class="t1"><img src="Images/a77.jpeg" title="Alloco" class="img"><div class="explorer"> <p> Decouvrir Plus</p></div>
+                </div>
             </div>
 
             <div class="table">
